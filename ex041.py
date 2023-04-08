@@ -8,8 +8,10 @@ com a idade
   - ate 9 anos == mirim
   - ate 14 ano == infantil
   - ate 19 anos == junior
-  - ate 20 anos == senior
-  - acima 20 anos == master
+  - ate 25 anos == senior
+  - acima == master
+'''
+# Meu codigo
 '''
 from datetime import date
 ano = date.today().year
@@ -38,3 +40,22 @@ else:
     print('Nome do Atleta:', nome)
     print('Idade:', idade)
     print('Categoria: MASTER')
+'''
+
+# Código do professor
+from datetime import date
+atual = date.today().year
+nasc = int(input('Ano de Nascimento: '))
+idade = atual - nasc
+
+print('Idade do Atleta: \033[1;34m{} anos\033[m.'.format(idade))
+if idade <= 9:
+    print('Classificação: Mirim')
+elif idade <= 14:
+    print('Classificação: Infantil')
+elif idade <= 19:
+    print('Classificação: Junior')
+elif idade <= 25:
+    print('Classificação: Senior')
+else:
+    print('Classificação: Master')
