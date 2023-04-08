@@ -1,0 +1,8 @@
+v = input('Digite um valor: ')
+print('O tipo do valor digitado é: \033[30m{}\033[m'.format(type(v)))
+print('O valor digitado é númerico? \033[31m{}\033[m'.format(v.isnumeric()))
+print('O valor digitado é Alpha? \033[32m{}\033[m'.format(v.isalpha()))
+print('O valor digitado é AlphaNúmerico? \033[33m{}\033[m'.format(v.isalnum()))
+print('O valor digitado é maiúscula? \033[34m{}\033[m'.format(v.isupper()))
+print('O valor digitado é minúscula? \033[35m{}\033[m'.format(v.islower()))
+print('O valor digitado contém espaços? \033[36m{}\033[m'.format(v.isspace()))
