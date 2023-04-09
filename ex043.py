@@ -11,7 +11,7 @@ a tabela abaixo
 - acima de 40 == obesidade morbida
 '''
 from math import sqrt
-peso = float(input('Informe seu peso: '))
-altura = float(input('Informe sua altura: '))
-imc = peso / (altura * altura)
-print(imc * altura)
+peso = float(input('Informe seu peso: {Kg} '))
+altura = float(input('Informe sua altura: {m} '))
+imc = peso / (altura ** 2)
+print(imc)
