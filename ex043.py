@@ -14,4 +14,15 @@ from math import sqrt
 peso = float(input('Informe seu peso: {Kg} '))
 altura = float(input('Informe sua altura: {m} '))
 imc = peso / (altura ** 2)
-print(imc)
+print('Seu IMC é de {:.2f}'.format(imc))
+if imc <= 18.5:
+    print('Você está abaixo do PESO normal')
+elif imc <= 25:
+    print('PARABÉNS, Você está na faixa de PESO normal')
+elif imc <=30:
+    print('Você está em SOBREPESO')
+elif imc <= 39:
+    print('Você está em OBESIDADE, CUIDADO!')
+elif imc >= 40:
+    print('Você está em OBESIDADE MORBIDA!, Procure um médico')
+
