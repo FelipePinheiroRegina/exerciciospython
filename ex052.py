@@ -1,4 +1,6 @@
 '''faça um programa que leia um número
 inteiro e diga se ele é ou não um número primo'''
 
-print(90 / 2)
+num = int(input('Número: '))
+if num % 2 == 0:
+    print('O número {} não')
