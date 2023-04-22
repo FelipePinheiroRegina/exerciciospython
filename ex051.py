@@ -1,6 +1,8 @@
 '''Desenvolva um programa que leia o
 primeiro termo e a razão de uma PA. no final, mostre
 termos dessa progressão'''
+#Meu Código
+'''
 print('='*10)
 print('{:^10}'.format('P.A'))
 print('='*10)
@@ -21,7 +23,15 @@ else:
         print(termo, end=', ')
         termo += razao
 
-    print('\n(P.A DECRESCENTE)')
+    print('\n(P.A DECRESCENTE)')'''
+
+#Código do professor
+termo = int(input('Primeiro termo da P.A: '))
+razao = int(input('Razão da P.A: '))
+decimo = termo + (10 - 1) * razao
+for c in range(termo, decimo, razao):
+    print(termo)
+    termo += razao
 
 
 
