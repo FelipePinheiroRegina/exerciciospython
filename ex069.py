@@ -6,3 +6,7 @@ ou não continuar, no final mostre,
 # quantos homens foram cadastrados
 # quantas mulheres tem menos de 20 anos
 '''
+
+while True:
+    idade = int(input('Idade: '))
+    sexo = str(input('Sexo = [ M / F ]: '))
