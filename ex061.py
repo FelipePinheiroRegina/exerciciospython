@@ -8,7 +8,8 @@ Desenvolva um programa que leia o
 primeiro termo e a razão de uma PA. no final, mostre
 termos dessa progressão
 '''
-
+#Meu código
+'''
 p1 = int(input('Primeiro termo da P.A: '))
 razao = int(input('Qual a razão da P.A: '))
 cont = 10
@@ -30,4 +31,16 @@ if razao > 0:
 elif razao == 0:
     print('\nP.A CONSTANTE!')
 elif razao < 0:
-    print('\nP.A DECRESCENTE!')
+    print('\nP.A DECRESCENTE!')'''
+
+#Código do professor
+print('Gerador de PA')
+print('=-='*5)
+termo = int(input('Digite o termo da PA: '))
+razao = int(input('Digite a razão da PA: '))
+c = 10
+while c > 0:
+    print('{} =>'.format(termo), end=' ')
+    termo += razao
+    c -= 1
+print('FIM')

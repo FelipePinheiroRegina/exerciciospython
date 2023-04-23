@@ -7,9 +7,12 @@ disser que quer mostrar 0 Termos.
 p1 = int(input('Primeiro termo da P.A: '))
 razao = int(input('Razão da P.A: '))
 cont = 10
+tott = cont
 while cont != 0:
     print('{}'.format(p1), end=' ')
     p1 += razao
     cont -= 1
     if cont == 0:
         cont = int(input('Quer ver mais quantos termos? '))
+        tott += cont
+print('Você viu ao todo {} termos'.format(tott))
