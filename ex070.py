@@ -17,10 +17,10 @@ nomebarato = ''
 while True:
     nome = str(input('Nome do produto: '))
     preço = float(input('Preço do produto: '))
-    if valortotal == 0:
+    if valortotal == 0: #Da pra simplificar usando OR
         barato = preço
         nomebarato = nome
-    elif preço < barato:
+    elif preço < barato:    #tira essa linha e adicionar com o OR ^ la em cima
         barato = preço
         nomebarato = nome
     valortotal = valortotal + preço
