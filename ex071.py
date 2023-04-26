@@ -10,26 +10,27 @@ print('\033[32m='*25)
 print('$$$ BANCO DO LIPIN $$$')
 print('='*25, '\033[m')
 print('Cédulas |\033[32mR$\033[m 50, 20, 10, 1')
-Saque = int(input('Valor do Saque: '))
-total = Saque
-céd = 50
-totalcéd = 0
+saque = int(input('Digite o valor do Saque: '))
+ced = 50
+contnota = 0
 while True:
-    if total >= céd:
-        total -= céd
-        totalcéd += 1
+    if saque >= ced:
+        saque -= ced
+        contnota += 1
     else:
-       if totalcéd > 0:
-           print(f'Vai ser {totalcéd} de {céd}')
-       if céd == 50:
-           céd = 20
-       elif céd == 20:
-           céd = 10
-       elif céd == 10:
-           céd = 1
-       totalcéd = 0
-       if total == 0:
-           break
+        if contnota > 0:
+            print(f'Vão ser {contnota} Notas de R${ced}.')
+        if ced == 50:
+            ced = 20
+        elif ced == 20:
+             ced = 10
+        elif ced == 10:
+             ced = 1
+        contnota = 0
+        if saque == 0:
+            break
+
+
 
 
 
