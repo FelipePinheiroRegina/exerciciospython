@@ -11,6 +11,7 @@ n2 = randint(1, 100)
 n3 = randint(1, 100)
 n4 = randint(1, 100)
 n5 = randint(1, 100)
+# Professor n = (randint(1, 100), randint(1, 100), randint(1, 100), randint(1, 100), randint(1, 100),)
 Números = (n1, n2, n3, n4, n5)
 for c in Números:
     print('\033[36m', c, end=' \033[m')

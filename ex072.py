@@ -13,5 +13,7 @@ while True:
     Posição = int(input('Digte um número: (entre 0 e 20) '))
     if Posição >= 0 and Posição <=20:
         print(f'Você digitou o número {Números[Posição]}')
-        break
+        opção = input('Você quer continuar? [S/N]').upper()[0]
+        if opção == 'N':
+            break
 
