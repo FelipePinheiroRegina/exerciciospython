@@ -6,18 +6,20 @@ dentro, ele não será adicionado,
 no final, serão exibidos todos os valores
 únicos digitados em ordem crescente
 '''
-Valores = list()
-R = ''
+lista = []
 while True:
-    Valores.append(int(input('Digite um valor: ')))
-    for v in Valores:
-        if v == Valores:
-            print('Valor Repetido!, Digite novamente!')
-            Valores.append(int(input('Digite outro valor: ')))
-        else:
-            print('Valor Registrado!')
-    R = str(input('Quer continuar? [ S / N ]: '))
-    if R in 'Nn':
+    n = int(input('Digite um valor: '))
+    if n not in lista:
+        lista.append(n)
+        print('Valor adicionado com sucesso!')
+    else:
+        print('Valor já existente!')
+    r = str(input('Quer continuar? [S/N] '))
+    if r in 'Nn':
         break
+lista.sort()
+for v in lista:
+    print(f'{v}.. ', end='')
+
 
 

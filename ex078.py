@@ -6,24 +6,26 @@ no final, mostre qual foi o maior e o menor
 valor digitado e as suas respectivas posições
 na lista.
 '''
-Valores = list()
-Maior = 0
-Menor = 0
-posiçãom = 0
-posiçãor = 0
-for cont in range(1, 5 + 1):
-    Valores.append(int(input(f'Entre com o {cont}° Valor: ')))  # Pedindo para o usuário entrar com 5 valores
-for p, v in enumerate(Valores):  # Analisando
-    if p == 0:
-        Maior = Valores[p]
-        Menor = Valores[p]
-    if Valores[p] > Maior:
-        Maior = Valores[p]
-        posiçãom = p
-    if Valores[p] < Menor:
-        Menor = Valores[p]
-        posiçãor = p
-print(f'A Lista digitada foi: {Valores}')
-print(f'O maior valor digitado foi {Maior} na posição {posiçãom}!')
-print(f'O menor valor digitado foi {Menor} na posição {posiçãor}!')
+valores = []
+mai = 0
+men = 0
+for c in range(5):
+    valores.append(int(input(f'Digite o {c + 1}° valor: ')))
+    if c == 0:
+        mai = men = valores[c]
+    if valores[c] > mai:
+        mai = valores[c]
+    if valores[c] < men:
+        men = valores[c]
+print(f'VALORES DIGITADOS: {valores}.')
+print(f'O maior número digitado foi {mai}, nas posições ', end='')
+for i, v in enumerate(valores):
+    if v == mai:
+        print(f'{i}.. ', end='')
+print(f'\nO menor número digitado foi {men}, nas posições ', end='')
+for i, v in enumerate(valores):
+    if v == men:
+        print(f'{i}.. ', end='')
+
+
 
