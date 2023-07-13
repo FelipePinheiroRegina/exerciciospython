@@ -1,4 +1,4 @@
-felipe;24
-junior;31
-daniel;21
-richard;30
+Felipe;24
+Richard;30
+Daniel;21
+Rodrigo;36

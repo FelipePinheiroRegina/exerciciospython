@@ -14,13 +14,19 @@ while True:
         # Mostra as pessoas cadastradas no meu sistema
         lerPessoas(arq)    
     elif resposta == 2:
+        # Cadastra uma nova pessoa
         cabeçalho('OPÇÃO 2')
+        nome = str(input('Nome: '))
+        idade = LeiaInt('Idade: ')
+        cadastrarPessoa(arq, nome, idade)
     elif resposta == 3:
-        cabeçalho('\033[4;31mSAINDO DO SISTEMA... ATÉ LOGO!\033[m')
-        sleep(2)
+        # Sai do sistema
+        cabeçalho('Saindo do sistema... até logo!')
+        sleep(1)
         break
     else:
+        # Caso o usuário digite errado
         print('\033[31m[ ERRO ], Digite uma opção válida!\033[m')
-    sleep(2)
+    sleep(1)
 
 

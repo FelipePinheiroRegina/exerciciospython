@@ -26,5 +26,26 @@ def lerPessoas(pessoas):
         print('ERRO, ao mostrar as pessoas cadastradas.')
     else:
         cabeçalho('PESSOAS CADASTRADAS')
-        print(a.read())
+        for linha in a:
+            dado = linha.split(';')
+            dado[1] = dado[1].replace('\n', '')
+            print(f'{dado[0]:<30}{dado[1]:>3} anos')
+    finally:
+        a.close()
+
+
+
+def cadastrarPessoa(arq, nome='desconhecido', idade=0):
+    try:
+        a = open(arq, 'at')
+    except:
+        print('ERRO ao cadastrar uma nova pessoa')
+    else:
+        try:
+            a.write(f'{nome};{idade}\n')
+        except:
+            print('ERRO ao escrever o nome.')
+        else:
+            print(f'{nome} cadastrado(a) com sucesso.')
+            a.close()
 
