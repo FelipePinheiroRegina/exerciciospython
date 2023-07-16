@@ -79,7 +79,7 @@
 
 # Python 3 - Mundo 3.
 ## Tuplas, Listas, Dicionários, Funções, Modularização, Tratamento de erros.
-### Exercícios #072 ao #116.
+### Exercícios #072 ao #115.
 - Exercício Python #072 - [Escrevendo números](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex072.py)
 - Exercício Python #073 - [Brasileirão](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex073.py)
 - Exercício Python #074 - [Maior e Menor](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex074.py)
