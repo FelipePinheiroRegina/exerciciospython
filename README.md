@@ -1,6 +1,6 @@
-# Python 3 - Mundo 1
+# Python 3 - Mundo 1.
 ## Introdução, testando dados e fazendo contas, módulos, condições, e adicionando cores.
-### Exercício 01 ao 35
+### Exercício #001 ao #035.
 - Exercício Python #01 - [Hello, World!](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex001.py)
 - Exercício Python #02 - [Conhecendo o usuário](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex002.py)
 - Exercício Python #03 - [Soma de dois números](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex003.py)
@@ -37,5 +37,43 @@
 - Exercício Python #034 - [10% de aumento](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex034.py)
 - Exercício Python #035 - [Formador de triangulos](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex035.py)
 
-
+# Python 3 - Mundo 2.
+## Condições if, elif, repetições for, while, fazendo contas e testes.
+### Exercício #035 ao #071.
+- Exercício Python #036 - [Financiado imóvel](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex001.py)
+- Exercício Python #037 - [Conversor para Binário, Hexadecimal, Octal](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex002.py)
+- Exercício Python #038 - [Comparando números](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex003.py)
+- Exercício Python #039 - [Alistamento militar](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex004.py)
+- Exercício Python #040 - [Aprovação, Recuperação, Reprovação](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex005.py)
+- Exercício Python #041 - [Classificando atleta](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex006.py)
+- Exercício Python #042 - [Melhorando triangulo](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex007.py)
+- Exercício Python #043 - [Calculando IMC](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex008.py)
+- Exercício Python #044 - [Lojas Guanabara](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex009.py)
+- Exercício Python #045 - [Jogo do Jokenpo](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex010.py)
+- Exercício Python #046 - [Estouros de fogos](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex011.py)
+- Exercício Python #047 - [Números pares entre 1 e 50](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex012.py)
+- Exercício Python #048 - [Somando valores ímpares](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex013.py)
+- Exercício Python #049 - [Melhorando tabuada](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex014.py)
+- Exercício Python #050 - [Soma dos valores pares](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex015.py)
+- Exercício Python #051 - [Progressão aritmética](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex0116.py)
+- Exercício Python #052 - [Número primo](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex017.py)
+- Exercício Python #053 - [É palindromo?](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex018.py)
+- Exercício Python #054 - [Maior de 18?](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex019.py)
+- Exercício Python #055 - [Maior e Menor peso](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex020.py)
+- Exercício Python #056 - [Analisando dados](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex021.py)
+- Exercício Python #057 - [Verificando dados](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex022.py)
+- Exercício Python #058 - [Advinha com dica](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex023.py)
+- Exercício Python #059 - [Somar, Multiplicar, Maior](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex024.py)
+- Exercício Python #060 - [Fatorial](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex025.py)
+- Exercício Python #061 - [Gerador de P.A](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex026.py)
+- Exercício Python #062 - [Mais P.A](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex027.py)
+- Exercício Python #063 - [Sequencia fibonacci](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex028.py)
+- Exercício Python #064 - [while True](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex029.py)
+- Exercício Python #065 - [while](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex030.py)
+- Exercício Python #066 - [while](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex031.py)
+- Exercício Python #067 - [Tabuada com while True](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex032.py)
+- Exercício Python #068 - [Jogo do Par ou Ímpar](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex033.py)
+- Exercício Python #069 - [Analisador de pessoas](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex034.py)
+- Exercício Python #070 - [Analisando valores](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex034.py)
+- Exercício Python #071 - [Simulador de banco](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex034.py)
 
