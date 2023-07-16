@@ -1,4 +1,4 @@
-from ex115.lib.interface import *
+from interface import *
 def arquivoExiste(nome):
     try:
         a = open(nome, 'rt')  # Tenta abrir um arquivo,  o "rt" significa "read, text"

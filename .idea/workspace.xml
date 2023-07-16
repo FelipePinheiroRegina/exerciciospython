@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eee1415c-f565-4bbd-ac56-bf32dbe59d67" name="Changes" comment="prof-ex044">
+      <change afterPath="$PROJECT_DIR$/Python 3 - Mundo 3/ex107/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 - Mundo 3/ex108/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 - Mundo 3/ex109/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 - Mundo 3/ex110/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 3 - Mundo 3/ex115/lib/arquivo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 3 - Mundo 3/ex115/lib/arquivo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 3 - Mundo 3/ex115/lib/pessoas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python 3 - Mundo 3/ex115/lib/pessoas.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +59,8 @@
       <recent name="C:\Users\flppi\PycharmProjects\exerciciospython\exerciciospython\Python 3 - Mundo 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex071">
-    <configuration name="ex064" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sistema">
+    <configuration name="ex111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex111" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 2/ex064.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex111/ex111.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex112" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 2/ex067.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex112/ex112.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 2/ex068.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex113.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex070" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 2/ex070.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex114.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex115/lib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 2/ex071.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 - Mundo 3/ex115/lib/sistema.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex071" />
-        <item itemvalue="Python.ex070" />
-        <item itemvalue="Python.ex068" />
-        <item itemvalue="Python.ex067" />
-        <item itemvalue="Python.ex064" />
+        <item itemvalue="Python.sistema" />
+        <item itemvalue="Python.ex114" />
+        <item itemvalue="Python.ex113" />
+        <item itemvalue="Python.ex112" />
+        <item itemvalue="Python.ex111" />
       </list>
     </recent_temporary>
   </component>
