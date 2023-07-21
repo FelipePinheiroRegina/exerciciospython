@@ -1,4 +1,5 @@
-# Python 3 - Mundo 1.
+# Curso de 🟪Python 3🟪
+## Python 3 - Mundo 1
 ## Introdução, Testando dados, Fazendo contas, Módulos, Condições, Adicionando cores.
 ### Exercícios #001 ao #035.
 - Exercício Python #01 - [Hello, World!](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex001.py)
@@ -37,7 +38,7 @@
 - Exercício Python #034 - [10% de aumento](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex034.py)
 - Exercício Python #035 - [Formador de triangulos](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex035.py)
 
-# Python 3 - Mundo 2.
+## Python 3 - Mundo 2.
 ## Condições if, elif, Repetições for, while, Fazendo contas, Testes.
 ### Exercícios #035 ao #071.
 - Exercício Python #036 - [Financiado imóvel](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex036.py)
@@ -77,7 +78,7 @@
 - Exercício Python #070 - [Analisando valores](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex070.py)
 - Exercício Python #071 - [Simulador de banco](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex071.py)
 
-# Python 3 - Mundo 3.
+## Python 3 - Mundo 3.
 ## Tuplas, Listas, Dicionários, Funções, Modularização, Tratamento de erros.
 ### Exercícios #072 ao #115.
 - Exercício Python #072 - [Escrevendo números](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex072.py)
