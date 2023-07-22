@@ -1,7 +1,7 @@
 # Curso de 🟪Python 3🟪
-## Python 3 - Mundo 1
-## Introdução, Testando dados, Fazendo contas, Módulos, Condições, Adicionando cores.
-### Exercícios #001 ao #035.
+Mundo 1
+
+Introdução, Testando dados, Fazendo contas, Módulos, Condições, Adicionando cores.
 - Exercício Python #01 - [Hello, World!](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex001.py)
 - Exercício Python #02 - [Conhecendo o usuário](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex002.py)
 - Exercício Python #03 - [Soma de dois números](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex003.py)
@@ -37,10 +37,10 @@
 - Exercício Python #033 - [Maior e Menor](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex033.py)
 - Exercício Python #034 - [10% de aumento](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex034.py)
 - Exercício Python #035 - [Formador de triangulos](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%201/ex035.py)
+---
+Mundo 2.
 
-## Python 3 - Mundo 2.
-## Condições if, elif, Repetições for, while, Fazendo contas, Testes.
-### Exercícios #035 ao #071.
+Condições if, elif, Repetições for, while, Fazendo contas, Testes.
 - Exercício Python #036 - [Financiado imóvel](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex036.py)
 - Exercício Python #037 - [Conversor para Binário, Hexadecimal, Octal](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex037.py)
 - Exercício Python #038 - [Comparando números](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex038.py)
@@ -77,10 +77,10 @@
 - Exercício Python #069 - [Analisador de pessoas](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex069.py)
 - Exercício Python #070 - [Analisando valores](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex070.py)
 - Exercício Python #071 - [Simulador de banco](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%202/ex071.py)
+---
+Mundo 3
 
-## Python 3 - Mundo 3.
-## Tuplas, Listas, Dicionários, Funções, Modularização, Tratamento de erros.
-### Exercícios #072 ao #115.
+Tuplas, Listas, Dicionários, Funções, Modularização, Tratamento de erros.
 - Exercício Python #072 - [Escrevendo números](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex072.py)
 - Exercício Python #073 - [Brasileirão](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex073.py)
 - Exercício Python #074 - [Maior e Menor](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex074.py)
@@ -116,7 +116,8 @@
 - Exercício Python #104 - [Função leia inteiro](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex104.py)
 - Exercício Python #105 - [Função help](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex105.py)
 - Exercício Python #106 - [pyHELP com cores](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex106.py)
-### Introdução à pacotes
+---
+Introdução à pacotes
 - Exercício Python #107 - [Formatando para R$](https://github.com/FelipePinheiroRegina/exerciciospython/tree/main/Python%203%20-%20Mundo%203/ex107)
 - Exercício Python #108 - [Adicionando " , "](https://github.com/FelipePinheiroRegina/exerciciospython/tree/main/Python%203%20-%20Mundo%203/ex108)
 - Exercício Python #109 - [Opção True or False](https://github.com/FelipePinheiroRegina/exerciciospython/tree/main/Python%203%20-%20Mundo%203/ex109)
@@ -126,3 +127,4 @@
 - Exercício Python #113 - [Leia inteiro e real](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex113.py)
 - Exercício Python #114 - [Testando site](https://github.com/FelipePinheiroRegina/exerciciospython/blob/main/Python%203%20-%20Mundo%203/ex114.py)
 - Exercício Python #115 - [Sistema de cadastro](https://github.com/FelipePinheiroRegina/exerciciospython/tree/main/Python%203%20-%20Mundo%203/ex115/lib)
+# GoodBye ✋
